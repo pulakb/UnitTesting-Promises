@@ -1,0 +1,15 @@
+{
+  "name": "jquery-promise-testing",
+  "version": "0.0.1",
+  "description": "Unit Testing Promises in jQuery",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "karma-chrome-launcher": "^0.1.4",
+    "karma-jasmine": "^0.1.5"
+  }
+}
