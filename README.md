@@ -12,4 +12,4 @@ In the first segment, we will use Jasmine, a behavior-driven development framewo
 
 **Execute**
 
-- Go to the example folder, say, 'jQuery' in commandline and type karma start karma.config.js
+- Go to the example folder, say, 'jQuery' in command line and type karma start karma.config.js
