@@ -1,12 +1,12 @@
-//Success Example
+//Failure Example
 
-function one() {		    
+function two() {		    
     var deferred = $.Deferred(); 
 
     $.ajax( {
         url: '/',
         success: function() {
-            deferred.resolve("I am done");
+            deferred.reject("I am failed");
         }		        
     });
     
